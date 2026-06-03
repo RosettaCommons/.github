@@ -4,7 +4,7 @@
 
 Rosetta Commons drives innovation in biomolecular modeling and design through cutting-edge computational methods and shared software. Our global community of scientists collaborates to advance open, reproducible science and accelerate discovery.
 
-This GitHub organization hosts the tools our community has built — from the original physics-based Rosetta software to the latest ML-driven methods for protein design.
+This GitHub organization hosts the tools our community has built – from the original physics-based Rosetta software to the latest ML-driven methods for protein design.
 
 ## What you'll find here
 
