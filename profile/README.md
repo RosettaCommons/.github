@@ -8,9 +8,9 @@ This GitHub organization hosts the tools our community has built – from the or
 
 ## What you'll find here
 
-- **Physics-based tools** — The original Rosetta suite for structure prediction, docking, and design
-- **ML-based tools** — Community-built deep learning methods developed over the past several years
-- **Support resources** — Documentation and community guidance for every experience level
+- **Physics-based tools**: The original Rosetta suite for structure prediction, docking, and design
+- **ML-based tools**: Community-built deep learning methods developed over the past several years
+- **Support resources**: Documentation and community guidance for every experience level
 
 ## Getting Started
 
